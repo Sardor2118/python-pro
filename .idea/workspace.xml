@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311bad11-49fb-49d0-b3bf-7b6498edaa49" name="Changes" comment="06.03.2024">
-      <change beforePath="$PROJECT_DIR$/urok 2/urok 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/urok 2/urok 2.py" afterDir="false" />
+    <list default="true" id="311bad11-49fb-49d0-b3bf-7b6498edaa49" name="Changes" comment="07.03.2024">
+      <change afterPath="$PROJECT_DIR$/urok 3/urok 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
     "Python.dz2.executor": "Run",
     "Python.urok 1.executor": "Run",
     "Python.urok 2.executor": "Run",
+    "Python.urok 3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -127,12 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709820058433</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="07.03.2024">
+      <option name="closed" value="true" />
+      <created>1709820091065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709820091065</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="06.03.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="06.03.2024" />
+    <MESSAGE value="07.03.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="07.03.2024" />
   </component>
 </project>
