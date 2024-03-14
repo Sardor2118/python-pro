@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311bad11-49fb-49d0-b3bf-7b6498edaa49" name="Changes" comment="12.03.2024">
-      <change afterPath="$PROJECT_DIR$/urok 4/dz.py" afterDir="false" />
+    <list default="true" id="311bad11-49fb-49d0-b3bf-7b6498edaa49" name="Changes" comment="13.03.2024">
+      <change afterPath="$PROJECT_DIR$/urok 5/urok 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Doctests in urok 5.executor": "Run",
     "Python.dz.executor": "Run",
     "Python.dz1.executor": "Run",
     "Python.dz2.executor": "Run",
@@ -72,10 +73,12 @@
     "Python.urok 2.executor": "Run",
     "Python.urok 3.executor": "Run",
     "Python.urok 4.executor": "Run",
+    "Python.urok 5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -155,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710251808845</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="13.03.2024">
+      <option name="closed" value="true" />
+      <created>1710325770826</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710325770826</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +174,7 @@
     <MESSAGE value="06.03.2024" />
     <MESSAGE value="07.03.2024" />
     <MESSAGE value="12.03.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.03.2024" />
+    <MESSAGE value="13.03.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.03.2024" />
   </component>
 </project>
