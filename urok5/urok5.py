@@ -22,22 +22,22 @@
 #     None
 #     """
 #     return x * y
-
-a = "123k"
-if a.isdigit():
-    print(a)
-else:
-    print('Не цифра')
-
-a = "фывф2ы"
-if a.isalpha():
-    print(a)
-else:
-    print("Не буквы")
+#
+# a = "123k"
+# if a.isdigit():
+#     print(a)
+# else:
+#     print('Не цифра')
+#
+# a = "фывф2ы"
+# if a.isalpha():
+#     print(a)
+# else:
+#     print("Не буквы")
 
 import unittest
-def check(x, y)-> int or float:
-    return x*y
+def check(x, y) -> int or float:
+    return x * y
 
 class TestOne(unittest.TestCase):
     def test_check(self):
