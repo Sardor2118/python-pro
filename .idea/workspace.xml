@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311bad11-49fb-49d0-b3bf-7b6498edaa49" name="Changes" comment="15.03.2024">
-      <change afterPath="$PROJECT_DIR$/urok6/urok6.py" afterDir="false" />
+    <list default="true" id="311bad11-49fb-49d0-b3bf-7b6498edaa49" name="Changes" comment="16.03.2024">
+      <change afterPath="$PROJECT_DIR$/Blok test/Xamidov Sardor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urok5/urok5.py" beforeDir="false" afterPath="$PROJECT_DIR$/urok5/urok5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +67,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Doctests in urok 5.executor": "Run",
+    "Python tests.Doctests in urok5.executor": "Run",
     "Python tests.Python tests for urok5.TestOne.executor": "Run",
     "Python tests.Python tests for urok5.TestOne.test_check.executor": "Run",
     "Python tests.Python tests in dz 5.py.executor": "Run",
@@ -88,6 +90,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PythonPro\Blok test" />
       <recent name="C:\Users\HP\PycharmProjects\PythonPro\urok 1" />
     </key>
   </component>
@@ -225,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710494214260</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="16.03.2024">
+      <option name="closed" value="true" />
+      <created>1710598550713</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710598550713</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,6 +247,7 @@
     <MESSAGE value="13.03.2024" />
     <MESSAGE value="14.03.2024" />
     <MESSAGE value="15.03.2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="15.03.2024" />
+    <MESSAGE value="16.03.2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.03.2024" />
   </component>
 </project>
